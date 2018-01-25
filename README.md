@@ -1,4 +1,4 @@
-# flagsprite
+# flag sprite
 
 Just a sprite image with all the flags of the world.
 
